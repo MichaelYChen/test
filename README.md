@@ -1,2 +1,2 @@
 # test
-test the connect from atlassisn bitbucket
+test the connection from atlassisn bitbucket
